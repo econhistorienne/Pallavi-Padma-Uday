@@ -1,9 +1,9 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
+# Pallavi Padma-Uday
+Economic Historian, Writer
+| [p.singh24@lse.ac.uk](mailto:p.singh24@lse.ac.uk)
 | [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+| [www.econhistorienne.substack.com](www.econhistorienne.substack.com)
+| [linkedin.com/in/econhistorienne](https://www.linkedin.com/in/econhistorienne/)
 
 ## About me
 Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
@@ -26,36 +26,18 @@ Data-driven professional with a passion for uncovering insights from data to sol
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### PhD  
+*Centre for Economic History, Queen's University Belfast*  
+*2021-2025*
 
-## Skills
-
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
-
-## Certifications
-
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
-
-## Projects
-
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
-
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
+### MSc  
+*Department of Economic History, London School of Economics and Political Science*  
+*2013-2014*
 
 ## Languages
 
-- English: Fluent
-- Swahili: Native
-
-## Interests
+- English: Native
+- Hindi: Native
 
 - Hiking
 - Technology
